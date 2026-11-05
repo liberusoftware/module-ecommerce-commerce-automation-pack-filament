@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.liberu.dev/module/v1.json",
+  "name": "ecommerce-commerce-automation-pack-filament",
+  "display_name": "Commerce Automation Pack",
+  "description": "Commerce Automation Pack Filament presentation module skeleton",
+  "version": "0.1.0-alpha.0",
+  "category": "presentation",
+  "provider": "Liberu\\Presentation\\Capability4c3182086e2a\\CapabilityServiceProvider",
+  "requires": {
+    "php": "^8.5",
+    "laravel": "^13.0",
+    "packages": {},
+    "capabilities": []
+  },
+  "presentation": {
+    "filament": {
+      "admin": [
+        "Liberu\\Presentation\\Capability4c3182086e2a\\CapabilityPlugin"
+      ]
+    }
+  },
+  "capabilities": [],
+  "features": [
+    "Filament package extension entry (skeleton)"
+  ],
+  "default_enabled": false
+}
