@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-automation-pack-filament",
+  "capabilityKey": "planned:ecommerce:commerce-automation-pack",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-commerce-automation-pack-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-automation-pack.md",
+  "presentationPlan": "projects/ecommerce/filament/commerce-automation-pack.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
